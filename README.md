@@ -42,22 +42,22 @@ venv\Scripts\activate
 
 You should see (venv) in your terminal prompt.
 
-2. **Install dependencies**
+3. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Set up your Groq API key**
+4. **Set up your Groq API key**
 
 Edit `.env` and replace the API key:
 GROQ_API_KEY='YOUR_GROQ_API_KEY_HERE'
 
-4. **Run the application**
+5. **Run the application**
 ```bash
 streamlit run app.py
 ```
 
-5. **Open your browser**
+6. **Open your browser**
 Navigate to `http://localhost:8501`
 
 ## 📁 Project Structure
