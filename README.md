@@ -52,12 +52,12 @@ pip install -r requirements.txt
 Edit `.env` and replace the API key:
 GROQ_API_KEY='YOUR_GROQ_API_KEY_HERE'
 
-4**Run the application**
+4. **Run the application**
 ```bash
 streamlit run app.py
 ```
 
-5**Open your browser**
+5. **Open your browser**
 Navigate to `http://localhost:8501`
 
 ## 📁 Project Structure
