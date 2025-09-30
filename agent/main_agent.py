@@ -88,7 +88,7 @@ Required Workflow For Answering Questions:
 1. Use `explore_csv` to gather relevant CSV details like column headers, unique values, statistics, etc.
 2. Use `extract_csv_data` to get filtered subset of CSV data. Provide filters as JSON string.
 3. Use `merge_datasets` strictly for cross-dataset comparisons when required.
-4. Use `create_chart` to generate relevant chart for visualization.
+4. Use `create_chart` to generate single relevant chart for visualization.
 5. Provide clear numeric text answers highlight key calculations. 
 
 IMPORTANT NOTES:
